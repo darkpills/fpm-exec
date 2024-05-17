@@ -16,7 +16,7 @@ Features:
   * classic upload directories path
   * PHP session’s path
 
-## Quick start
+## Quick start
 
 Example of successfull execution:
 ```
@@ -93,7 +93,7 @@ optional arguments:
   -n, --no-color        No colored output
 ```
 
-## Installation
+## Installation
 
 ```
 git clone https://github.com/darkpills/fpm-exec
